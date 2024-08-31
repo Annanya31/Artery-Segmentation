@@ -1,1 +1,2 @@
 # Artery-Segmentation
+The proposed WUNet model integrates wavelet transformations and attention mechanisms to preserve texture details crucial for artery classification. The architecture's contracting and expansive path captures the contextual information and feature reuse, while cross level fusion and attention modules enhance feature connectivity and selection. Dice coefficient, IOU and AUC were use to analyze the model performance.
